@@ -1,0 +1,6 @@
+{
+  "name": "StemSpire",
+  "description": "Spotify artist exchange for organic plays, stem collaboration, and deep track analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
